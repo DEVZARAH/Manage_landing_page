@@ -900,6 +900,13 @@ body {
   background-repeat: no-repeat;
   background-position: 95% -25%;
   background-size: 800px;
+  font-family: vietman;
+}
+
+@font-face {
+  font-family: vietman;
+
+  src: url('../Be_Vietnam_Pro/BeVietnamPro-ThinItalic.ttf');
 }
 
 #call_to_action {
